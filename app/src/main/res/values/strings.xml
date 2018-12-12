@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="loading">Loading</string>
+
+    <string name="app_name">PhotoViewer V2</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
