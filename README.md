@@ -4,11 +4,12 @@
 
 ##### Architecture
 
-- Kotlin MVP(Model-View-Presenter) 포함
-
-- Implement Dagger2 (DI) 추가
+- Kotlin MVP(Model-View-Presenter) 포함  
+- RxJava 2, Rx Android 적용  
+- Implement Dagger2 (DI) 추가  
 
 - 실행 화면   
   
- <img src="./screenactions/Rx2_MVP_Gallery.gif" width="360" height="640" />
+
+![RX2-MVP-Kotlin-Gallery](./screenactions/Rx2_MVP_Gallery.gif "Gif")
 
