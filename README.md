@@ -14,12 +14,11 @@
   
   <img src="_files/Rx2_MVP_anim.gif" width="320" height="569" />
  
- <br>
- ##### 문의사항은 아래로 연락주세요 <br>
- ##### If you have any question, please contact below e-mail . <br>
- ##### @ e-mail #1 : rome2@naver.com ( or # joel.evanz@gmail.com ) <br>
- ##### @ 연락처 : 010-9753-4680 <br>
- ##### @ International Mobile : +82-10-9753-4680  <br>
+##### If you have any question, please contact below e-mail . <br>
+#####  문의사항은 아래로 연락주세요 <br>
+##### @ e-mail #1 : rome2@naver.com ( or # joel.evanz@gmail.com ) <br>
+##### @ 연락처 : 010-9753-4680 <br>
+##### @ International Mobile : +82-10-9753-4680  <br>
  
 
 
