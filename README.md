@@ -14,9 +14,9 @@
   
   <img src="_files/Rx2_MVP_anim.gif" width="320" height="569" />
   
-  @ 연락처 : 010-9753-4680 
-  @ International Mobile : +82-10-9753-4680 
-  @ e-mail : rome2@naver.com (or joel.evanz@gmail.com )
+ #@ 연락처 : 010-9753-4680 <br>
+ #@ International Mobile : +82-10-9753-4680  <br>
+ #@ e-mail #1 : rome2@naver.com ( or # joel.evanz@gmail.com )
 
 
 
