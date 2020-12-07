@@ -1,5 +1,5 @@
 
-# RX2-MVP-Kotlin Android Photo Gallery (2018-11)
+# RX2-MVP-Kotlin Android Photo Gallery
 
 
 ##### Architecture
@@ -16,7 +16,7 @@
  
 ##### If you have any question, please contact below e-mail . <br>
 #####  문의사항은 아래로 연락주세요 <br>
-##### @ e-mail: rome2@daum.net / joel.evanz@gmail.com <br>
+##### @ e-mail: jason_m_lee@naver.com / joel.evanz@gmail.com <br>
 ##### @ 연락처 : 010-9753-4680 <br>
 ##### @ International Mobile : +82-10-9753-4680  <br>
  
